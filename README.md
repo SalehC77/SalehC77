@@ -6,7 +6,7 @@
 -  My Phone number:+967 774361224
 -  My Email:saleh774361224@gmail.com
 - 😄 Pronouns: Code_Master
-- ⚡ Fun fact: ..
+- ⚡ Fun fact About Me: I am a dedicated and passionate programmer with a strong background in software development and a keen interest in cutting-edge technologies. Over the years, I have honed my skills in various programming languages, frameworks, and tools, allowing me to create robust, efficient, and scalable solutions. My expertise lies in problem-solving, algorithm design, and the ability to quickly adapt to new challenges and technologies.
 
 <!---
 SalehC77/SalehC77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
